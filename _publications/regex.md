@@ -6,6 +6,6 @@ category: conferences
 excerpt: 'This paper combines syntax guided syntheis with equality saturation to optimize expressions, particularly regular expressions which might be highly inefficient on some certain input strings.'
 date: 2023-01-27
 venue: 'PACT'
-#paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-#citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3559009.3569664'
+citation: 'Jedidiah McClurg, Miles Claver, Jackson Garner, Jake Vossen, Jordan Schmerge, Mehmet E. Belviranli: Optimizing Regular Expressions via Rewrite-Guided Synthesis. PACT 2022: 426-438'
 ---
