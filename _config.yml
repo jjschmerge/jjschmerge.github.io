@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Jordan Schmerge"
 title_separator          : "-"
 name                     : &name "Jordan Schmerge"
-description              : &description "Formal Methods PhD Student at Yale University"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Formal Methods PhD Student at Yale"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://jjschmerge.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "Headshot.jpg"
   name             : "Jordan Schmerge"
-  pronouns         : "He/Him"  
-  bio              : "Formal Methods PhD Student at Yale University"
+  pronouns         : "He/Him/His"  
+  bio              : "Formal Methods PhD Student at Yale"
   location         : "New Haven, CT"
   employer         : "Yale University"
   uri              : # URL
